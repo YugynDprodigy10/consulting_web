@@ -1,1 +1,1 @@
-A sleek an interactive multi-purpose website.
+A sleek and interactive multi-purpose website.
